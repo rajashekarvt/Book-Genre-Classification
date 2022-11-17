@@ -1,0 +1,6 @@
+Flask
+neattext
+nltk
+numpy
+pandas
+tensorflow
